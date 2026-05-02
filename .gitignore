@@ -1,0 +1,7 @@
+checkpoints/*.pt 
+*.pyc 
+__pycache__/ 
+*.egg-info/ 
+.ipynb_checkpoints/ 
+gdino_checkpoints/*.pth 
+gsam2_env/ 
